@@ -1,0 +1,3 @@
+com\sdu\orm\view\Application.class
+com\sdu\orm\util\HibernateUtil.class
+com\sdu\orm\entity\Student.class
